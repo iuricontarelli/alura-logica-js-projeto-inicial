@@ -1,5 +1,5 @@
 Curso de:
-Lógica de programação: mergulhe em programação com JavaScript
+Alura | Lógica de programação: mergulhe em programação com JavaScript [Projeto inicial]
 
 - Exiba mensagens na tela de forma interativa
 - Utilize variáveis no desenvolvimento de software
