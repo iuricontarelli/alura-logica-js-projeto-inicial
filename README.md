@@ -1,8 +1,3 @@
-Curso da Alura:
-
-Lógica de programação | Mergulhe em programação com JavaScript e Explore funções e listas.
-
-
 # Jogo do número secreto
 
 Este é um projeto de Lógica de programação referente ao jogo do número secreto desenvolvido utilizando HTML, CSS e JavaScript. Ele permite a criação de um site onde você tem que descobrir qual o número secreto. O número sorteado não será repetido, e depois de descoberto, você conseguirá iniciar um novo jogo sem precisar atualizar a página.
